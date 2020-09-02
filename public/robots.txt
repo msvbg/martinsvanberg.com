@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://martinsvanberg.com/sitemap.xml
